@@ -1,0 +1,2 @@
+tests the POSIX regular expression library roughly.
+this uses CSpec for testing framework.
